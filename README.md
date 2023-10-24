@@ -10,6 +10,7 @@ matplotlib.pyplot
 Seaborn
 
 Data Source: https://www.kaggle.com/teajay/global-shark-attacks
+PPT (Canva Link): https://www.canva.com/design/DAFyI-EQFpI/OlVMRrbEFU7sto9guT27uA/edit
 
 ## 1. Hypotheses:
 
